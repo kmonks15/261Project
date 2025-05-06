@@ -1,0 +1,103 @@
+game,update_month,update_type,before_peak,after_peak,peak_change
+Dead by Daylight,2020-02,No Update,44620.0,51146.0,6526.0
+Dead by Daylight,2020-03,Medium,38942.0,58477.0,19535.0
+Dead by Daylight,2020-04,No Update,51146.0,57799.0,6653.0
+Dead by Daylight,2020-05,No Update,58477.0,77341.0,18864.0
+Dead by Daylight,2020-06,High,57799.0,66429.0,8630.0
+Dead by Daylight,2020-07,No Update,77341.0,58910.0,-18431.0
+Dead by Daylight,2020-08,No Update,66429.0,76258.0,9829.0
+Dead by Daylight,2020-09,Medium,58910.0,77347.0,18437.0
+Dead by Daylight,2020-10,No Update,76258.0,75075.0,-1183.0
+Dead by Daylight,2020-11,No Update,77347.0,54526.0,-22821.0
+Dead by Daylight,2020-12,Medium,75075.0,53583.0,-21492.0
+Deep Rock Galactic,2020-02,No Update,5242.0,20030.0,14788.0
+Deep Rock Galactic,2020-03,Medium,19471.0,6541.0,-12930.0
+Deep Rock Galactic,2020-04,No Update,20030.0,15515.0,-4515.0
+Deep Rock Galactic,2020-05,High,6541.0,11326.0,4785.0
+Deep Rock Galactic,2020-06,Medium,15515.0,10527.0,-4988.0
+Deep Rock Galactic,2020-07,No Update,11326.0,6370.0,-4956.0
+Deep Rock Galactic,2020-08,No Update,10527.0,9273.0,-1254.0
+Deep Rock Galactic,2020-09,No Update,6370.0,12457.0,6087.0
+Deep Rock Galactic,2020-10,High,9273.0,11275.0,2002.0
+Deep Rock Galactic,2020-11,No Update,12457.0,12395.0,-62.0
+Deep Rock Galactic,2020-12,Low,11275.0,14077.0,2802.0
+Hunt: Showdown,2020-02,No Update,9065.0,12856.0,3791.0
+Hunt: Showdown,2020-03,No Update,12428.0,12472.0,44.0
+Hunt: Showdown,2020-04,No Update,12856.0,10746.0,-2110.0
+Hunt: Showdown,2020-05,No Update,12472.0,12660.0,188.0
+Hunt: Showdown,2020-06,No Update,10746.0,13842.0,3096.0
+Hunt: Showdown,2020-07,No Update,12660.0,10733.0,-1927.0
+Hunt: Showdown,2020-08,No Update,13842.0,10451.0,-3391.0
+Hunt: Showdown,2020-09,No Update,10733.0,15063.0,4330.0
+Hunt: Showdown,2020-10,Low,10451.0,16523.0,6072.0
+Hunt: Showdown,2020-11,No Update,15063.0,15539.0,476.0
+Hunt: Showdown,2020-12,Low,16523.0,15265.0,-1258.0
+No Man's Sky,2020-02,Medium,10613.0,13493.0,2880.0
+No Man's Sky,2020-03,No Update,17980.0,25414.0,7434.0
+No Man's Sky,2020-04,Medium,13493.0,12089.0,-1404.0
+No Man's Sky,2020-05,No Update,25414.0,11736.0,-13678.0
+No Man's Sky,2020-06,No Update,12089.0,21844.0,9755.0
+No Man's Sky,2020-07,Medium,11736.0,14929.0,3193.0
+No Man's Sky,2020-08,No Update,21844.0,34739.0,12895.0
+No Man's Sky,2020-09,High,14929.0,30502.0,15573.0
+No Man's Sky,2020-10,No Update,34739.0,16326.0,-18413.0
+No Man's Sky,2020-11,Medium,30502.0,11954.0,-18548.0
+No Man's Sky,2020-12,No Update,16326.0,12707.0,-3619.0
+Phasmophobia,2020-10,No Update,0.0,99089.0,99089.0
+Phasmophobia,2020-11,No Update,112241.0,45537.0,-66704.0
+Phasmophobia,2020-12,Medium,99089.0,42360.0,-56729.0
+Rust,2020-02,No Update,97340.0,102296.0,4956.0
+Rust,2020-03,No Update,92016.0,125415.0,33399.0
+Rust,2020-04,No Update,102296.0,102051.0,-245.0
+Rust,2020-05,No Update,125415.0,93513.0,-31902.0
+Rust,2020-06,No Update,102051.0,97741.0,-4310.0
+Rust,2020-07,Medium,93513.0,89147.0,-4366.0
+Rust,2020-08,No Update,97741.0,76611.0,-21130.0
+Rust,2020-09,No Update,89147.0,80422.0,-8725.0
+Rust,2020-10,No Update,76611.0,101365.0,24754.0
+Rust,2020-11,No Update,80422.0,97445.0,17023.0
+Rust,2020-12,Medium,101365.0,244394.0,143029.0
+Stardew Valley,2020-02,No Update,39046.0,45512.0,6466.0
+Stardew Valley,2020-03,No Update,33885.0,44965.0,11080.0
+Stardew Valley,2020-04,No Update,45512.0,31679.0,-13833.0
+Stardew Valley,2020-05,No Update,44965.0,24618.0,-20347.0
+Stardew Valley,2020-06,No Update,31679.0,28908.0,-2771.0
+Stardew Valley,2020-07,No Update,24618.0,23442.0,-1176.0
+Stardew Valley,2020-08,No Update,28908.0,19609.0,-9299.0
+Stardew Valley,2020-09,No Update,23442.0,18293.0,-5149.0
+Stardew Valley,2020-10,No Update,19609.0,22453.0,2844.0
+Stardew Valley,2020-11,No Update,18293.0,89311.0,71018.0
+Stardew Valley,2020-12,High,22453.0,94479.0,72026.0
+Subnautica,2020-02,No Update,5433.0,7918.0,2485.0
+Subnautica,2020-03,No Update,5648.0,8482.0,2834.0
+Subnautica,2020-04,No Update,7918.0,5566.0,-2352.0
+Subnautica,2020-05,No Update,8482.0,4605.0,-3877.0
+Subnautica,2020-06,No Update,5566.0,5472.0,-94.0
+Subnautica,2020-07,No Update,4605.0,4636.0,31.0
+Subnautica,2020-08,Low,5472.0,4012.0,-1460.0
+Subnautica,2020-09,No Update,4636.0,4427.0,-209.0
+Subnautica,2020-10,No Update,4012.0,4950.0,938.0
+Subnautica,2020-11,No Update,4427.0,6384.0,1957.0
+Subnautica,2020-12,No Update,4950.0,6876.0,1926.0
+Terraria,2020-02,No Update,49672.0,48542.0,-1130.0
+Terraria,2020-03,No Update,42862.0,72280.0,29418.0
+Terraria,2020-04,No Update,48542.0,486918.0,438376.0
+Terraria,2020-05,High,72280.0,157919.0,85639.0
+Terraria,2020-06,No Update,486918.0,62269.0,-424649.0
+Terraria,2020-07,No Update,157919.0,40187.0,-117732.0
+Terraria,2020-08,No Update,62269.0,33696.0,-28573.0
+Terraria,2020-09,No Update,40187.0,48712.0,8525.0
+Terraria,2020-10,Medium,33696.0,45815.0,12119.0
+Terraria,2020-11,No Update,48712.0,43285.0,-5427.0
+Terraria,2020-12,No Update,45815.0,47087.0,1272.0
+Tom Clancy's Rainbow Six Siege,2020-02,No Update,157948.0,198567.0,40619.0
+Tom Clancy's Rainbow Six Siege,2020-03,Medium,178824.0,194102.0,15278.0
+Tom Clancy's Rainbow Six Siege,2020-04,No Update,198567.0,146359.0,-52208.0
+Tom Clancy's Rainbow Six Siege,2020-05,No Update,194102.0,126733.0,-67369.0
+Tom Clancy's Rainbow Six Siege,2020-06,Medium,146359.0,122438.0,-23921.0
+Tom Clancy's Rainbow Six Siege,2020-07,No Update,126733.0,127249.0,516.0
+Tom Clancy's Rainbow Six Siege,2020-08,No Update,122438.0,163478.0,41040.0
+Tom Clancy's Rainbow Six Siege,2020-09,Medium,127249.0,114281.0,-12968.0
+Tom Clancy's Rainbow Six Siege,2020-10,No Update,163478.0,94968.0,-68510.0
+Tom Clancy's Rainbow Six Siege,2020-11,No Update,114281.0,123374.0,9093.0
+Tom Clancy's Rainbow Six Siege,2020-12,Medium,94968.0,123637.0,28669.0
